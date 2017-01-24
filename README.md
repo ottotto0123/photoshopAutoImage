@@ -1,7 +1,8 @@
 # photoshopAutoImage
 photoshopの面倒な画像保存を解決してくれるスクリプト
 
-http://www.ssnsk.com/hoka/index.htmlで紹介されている
+http://www.ssnsk.com/hoka/index.html
+で紹介されている
 リンクされたレイヤーを一枚ずつファイルに書き出すスクリプトをスマートオブジェクトやフォルダに
 対して実行した際に書き出しできなかった問題をとりあえず解決したもの。
 
